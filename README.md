@@ -1,2 +1,2 @@
-# Python-Arrays-Programs
-This is a Python Basic Arrays Programs
+# Python Arrays Programs
+- This is a Python Basic Arrays Programs
